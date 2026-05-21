@@ -300,3 +300,4 @@ Atualizado em Sun May 17 02:34:46 UTC 2026
 Atualizado em Mon May 18 02:44:54 UTC 2026
 Atualizado em Tue May 19 02:42:33 UTC 2026
 Atualizado em Wed May 20 02:43:07 UTC 2026
+Atualizado em Thu May 21 02:45:27 UTC 2026
